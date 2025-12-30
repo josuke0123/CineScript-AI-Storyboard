@@ -1,0 +1,5 @@
+{
+  "name": "CineScript AI - Storyboard Generator",
+  "description": "A professional AI-powered storyboard tool that generates cinematic 2x2 or 3x3 shot sequences from character and scene assets using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
